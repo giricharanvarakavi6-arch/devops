@@ -302,6 +302,7 @@ ul {
     gap: 9px;
     padding: 5px 10px 5px 5px;
     border-radius: 999px;
+    font-size: 12px;
 }
 
 .avatar {
