@@ -129,7 +129,7 @@ ul {
     padding: 0 20px;
     border-radius: 999px;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     transition: var(--transition);
 }
 
